@@ -6,7 +6,7 @@ Clone the respository into your pc on any folder. Run markerMouse and open any g
 Instructions of use-
 The left hand index finger is used as to press release the W key. Raising it will press W and putting it down will release W.
 Red marker is used to move the mouse.
-The left hand thumb mouse button is used to emulate mouse left button press. 
+The left hand thumb is used to emulate mouse left button press. Opening the thumb will click the mouse and closing it will release the mouse button.
 
 Credits - 
 Followed his tutorials - 
